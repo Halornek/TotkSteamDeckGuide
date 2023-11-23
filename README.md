@@ -1,4 +1,4 @@
-# TotkSteamDeckGuide
+# TotKSteamDeckGuide
 
 ## Target Audience
 
