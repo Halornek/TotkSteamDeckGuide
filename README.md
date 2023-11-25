@@ -6,7 +6,7 @@ This guide is designed for anyone looking to play Tears of the Kingdom (Or any o
 
 ## Disclaimer
 
-This gudie is presented as is. There is no legal precedent that actually protects the use of de-encryption tools and emulators (See this [video](https://www.youtube.com/watch?v=wROQUZDCIMI) by Moon Channel breaking down the legal history of Emulation). Some of the actions being taken could lead to an account ban on your Switch if you are not careful enough. Following the instructions exactly SHOULD (Key word) keep you safe from any hardware bans, but this is always a risk when modifying proprietary hardware. I take no responsibility should you choose to follow this guide and your system winds up getting banned.
+This guide is presented as is. There is no legal precedent that actually protects the use of de-encryption tools and emulators (See this [video](https://www.youtube.com/watch?v=wROQUZDCIMI) by Moon Channel breaking down the legal history of Emulation). Some of the actions being taken could lead to an account ban on your Switch if you are not careful enough. Following the instructions exactly SHOULD (Key word) keep you safe from any hardware bans, but this is always a risk when modifying proprietary hardware. I take no responsibility should you choose to follow this guide and your system winds up getting banned.
 
 ## Requirements
 
